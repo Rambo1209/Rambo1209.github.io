@@ -1,0 +1,30 @@
+
+<!doctype html>
+<html>
+<head>
+<title> https://Rambo1209.com </title> 
+</head>
+
+<body>
+<h1> Anime World </h1>
+<br></br>
+<script>
+console.log(5+6);
+</script>
+<form action="/action_page.php">
+<label for="fname">Full Name:</label>
+<input type="text" id="fname"
+name="fname"><br></br>
+
+<input type="radio" 
+name="gender"
+value="male">Male
+<input type="radio" 
+name="gender"
+value="female">Female
+</form>
+<br></br>
+<a href="file:///home/rambo/Desktop/2nd%20page/">Submit<br></br>
+<img src="anime.jpeg" height="300px" width="500px"></a>
+</body>
+</html>
